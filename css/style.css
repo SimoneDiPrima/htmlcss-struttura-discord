@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container-titoletto{
+    display:flex;
+    height:50px;
+    background-color: goldenrod;
+    justify-content:space-between;
+}
+.menu-titolo{
+    width:25%;
+    height:50px;
+    background-color: blue;
+    border:1px solid red;
+    padding:15px;
+}
+.menu-titolo-centro{
+    height:50px;
+    width:50%;
+    background-color:red;
+    padding:15px;
+    border:1px solid gray;
+}
+.intestazione{
+    text-align: center;
+    background-color: goldenrod;
+}
+.sottotitologrande{
+    max-width:60%;
+    margin-left:20%;
+}
+hr{
+    color: gray;
+}
