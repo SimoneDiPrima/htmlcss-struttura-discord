@@ -86,3 +86,34 @@ hr{
     margin-top:50px;
     text-align: center;
 }
+.sezione-finale{
+    height:200px;
+    background-color: blue;
+    display:flex;
+    justify-content:space-around;
+    color:white;
+}
+.colonna-sinistra-finale{
+    font-size:20px;
+    margin-left:10%;
+}
+.colonna-destra-finale{
+width:60%;
+}
+.colonna-destra-finale{
+    display:flex;
+    justify-content:space-between;
+    margin-right:10%;
+}
+.destra-colonna{
+    font-size: 15px;
+}
+.colonna-destra{
+    width:15%;
+}
+.voci-menu{
+    list-style-type: none;
+    margin-top:5px;
+    color:white;
+    text-decoration: none;
+}
