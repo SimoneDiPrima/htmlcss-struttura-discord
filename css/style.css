@@ -34,3 +34,51 @@
 hr{
     color: gray;
 }
+.immagine-sezione-left{
+    font-size:20px;
+    display:flex;
+    max-width:60%;
+    margin:0 20%;
+}
+.immagini-sezioni{
+    height: 150px;
+    border:1px solid black;
+    width:50%;
+    margin-right:20px;
+}
+.colonna2{
+    font-size: 20px;
+    height:200px;
+}
+.immagine-sezione-right{
+    display:flex;
+    flex-direction:row-reverse;
+    max-width:60%;
+    margin:0 20%;
+}
+
+.margine-estremo{
+    margin-bottom:50px;
+}
+.immagini-sezioni-right{
+    font-size: 20px;
+    height: 150px;
+    border:1px solid black;
+    width:50%;
+    margin-right:20px;
+}
+.immagine-sezione-down{
+    font-size:20px;
+    width:60%;
+    margin:0 20%;
+    text-align: center;
+}
+.colonna-down{
+    font-size:20px;
+}
+.immagine-sezione{
+    border:1px solid black;
+   height:200px;
+   width:80%;
+   margin-left:10%;
+}
