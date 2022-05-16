@@ -123,3 +123,14 @@ width:60%;
 .icone-social{
   margin-top:10px;  
 }
+.footer-container{
+    height:50px;
+    background-color: blue;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.footerino{
+    color:white;
+    border:1px solid red;
+}
