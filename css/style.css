@@ -92,10 +92,12 @@ hr{
     display:flex;
     justify-content:space-around;
     color:white;
+    margin-top:10px;
 }
 .colonna-sinistra-finale{
     font-size:20px;
     margin-left:10%;
+   
 }
 .colonna-destra-finale{
 width:60%;
@@ -116,4 +118,8 @@ width:60%;
     margin-top:5px;
     color:white;
     text-decoration: none;
+    padding-top:5px;
+}
+.icone-social{
+  margin-top:10px;  
 }
